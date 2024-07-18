@@ -22,7 +22,8 @@ p{
 }
 .btn-submit{
     margin-top: 20px; 
-    background-color: #FD3C86; 
+    background-color: #FD3C86;
+    background-image: linear-gradient(#FD3C86, #FD3C86); 
     padding: 10px 30px 10px 30px; 
     border-radius: 5px; 
     border: none; 
