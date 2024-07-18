@@ -1,0 +1,31 @@
+.main-section-body{
+ background-color: #FCEAE9;
+ height: 300px;
+ margin: 20px 30px 20px 30px;
+ 
+}
+h1{
+padding-top: 40px;
+}
+.main-div-align{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+.textbox{
+    width: 380px;
+    height: 40px;
+}
+.btn-submit{
+    margin-top: 20px; 
+    background-color: #FD3C86; 
+    padding: 10px 30px 10px 30px; 
+    border-radius: 5px; 
+    border: none; 
+    color: white;
+}
+footer {
+    text-align: center;
+    padding: 5px;
+    color: #000;
+  }
